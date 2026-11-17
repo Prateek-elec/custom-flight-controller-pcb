@@ -1,6 +1,6 @@
 <div align="center">
 
-# STM32F405 Drone Flight Controller PCB
+<img src="docs/banner.png" alt="STM32F405 Flight Controller" width="100%"/>
 
 **A full-featured FPV / UAV flight controller designed from scratch in KiCad 9: F405 MCU, ICM-42688-P IMU, BMP388 barometer, analog OSD, blackbox flash and two onboard switching BECs.**
 
@@ -9,11 +9,16 @@
 ![Status](https://img.shields.io/badge/status-layout%20complete-f59e0b?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
-<img src="docs/images/3d-top.png" width="48%" alt="3D render, top side"/> <img src="docs/images/3d-bottom.png" width="48%" alt="3D render, bottom side"/>
-
 </div>
 
 ---
+
+## 🔥 Why it hits different
+
+- 🧠 **F405 brain + ICM-42688-P IMU:** the same class of hardware as commercial FPV boards.
+- 📼 **OSD and blackbox on board:** MAX7456 video overlay and 16 MB of flight logging.
+- ⚡ **Two switching BECs:** clean 5 V for the FC and a separate rail for video.
+- 🔍 **Nothing hidden:** every net and footprint is open to study or fork.
 
 ## Why this board
 
@@ -86,8 +91,16 @@ Spotted a layout issue or want to suggest a part swap? [Open an issue](https://g
 
 [MIT](LICENSE) © Prateek Sarkar
 
+---
+
 <div align="center">
 
-**If this helped you understand flight-controller hardware, a ⭐ helps other builders find it.**
+### If this made you go *"wait, that's sick"* 👀
+
+**Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=A%20full%20STM32F405%20drone%20flight%20controller%2C%20open%20in%20KiCad%20%F0%9F%A7%A0&url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fcustom-flight-controller-pcb)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fcustom-flight-controller-pcb)
+[![Follow](https://img.shields.io/badge/follow-@Prateek--elec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec)
 
 </div>
