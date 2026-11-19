@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Why it hits different
+## Highlights
 
 - 🧠 **F405 brain + ICM-42688-P IMU:** the same class of hardware as commercial FPV boards.
 - 📼 **OSD and blackbox on board:** MAX7456 video overlay and 16 MB of flight logging.
@@ -95,7 +95,7 @@ Spotted a layout issue or want to suggest a part swap? [Open an issue](https://g
 
 <div align="center">
 
-### If this made you go *"wait, that's sick"* 👀
+### Found this useful?
 
 **Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
 
